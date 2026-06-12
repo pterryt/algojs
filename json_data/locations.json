@@ -1,0 +1,167 @@
+{
+    "4001 South 700 East": {
+        "index": 0,
+        "name": "Western Governors University",
+        "address": "4001 South 700 East",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84107",
+        "is_hub": true
+    },
+    "1060 Dalton Ave S": {
+        "index": 1,
+        "name": "International Peace Gardens",
+        "address": "1060 Dalton Ave S",
+        "zip": "84104"
+    },
+    "1330 2100 S": {
+        "index": 2,
+        "name": "Sugar House Park",
+        "address": "1330 2100 S",
+        "zip": "84106"
+    },
+    "1488 4800 S": {
+        "index": 3,
+        "name": "Taylorsville-Bennion Heritage City Gov Off",
+        "address": "1488 4800 S",
+        "zip": "84123"
+    },
+    "177 W Price Ave": {
+        "index": 4,
+        "name": "Salt Lake City Division of Health Services",
+        "address": "177 W Price Ave",
+        "zip": "84115"
+    },
+    "195 W Oakland Ave": {
+        "index": 5,
+        "name": "South Salt Lake Public Works",
+        "address": "195 W Oakland Ave",
+        "zip": "84115"
+    },
+    "2010 W 500 S": {
+        "index": 6,
+        "name": "Salt Lake City Streets and Sanitation",
+        "address": "2010 W 500 S",
+        "zip": "84104"
+    },
+    "2300 Parkway Blvd": {
+        "index": 7,
+        "name": "Deker Lake",
+        "address": "2300 Parkway Blvd",
+        "zip": "84119"
+    },
+    "233 Canyon Rd": {
+        "index": 8,
+        "name": "Salt Lake City Ottinger Hall",
+        "address": "233 Canyon Rd",
+        "zip": "84103"
+    },
+    "2530 S 500 E": {
+        "index": 9,
+        "name": "Columbus Library",
+        "address": "2530 S 500 E",
+        "zip": "84106"
+    },
+    "2600 Taylorsville Blvd": {
+        "index": 10,
+        "name": "Taylorsville City Hall",
+        "address": "2600 Taylorsville Blvd",
+        "zip": "84118"
+    },
+    "2835 Main St": {
+        "index": 11,
+        "name": "South Salt Lake Police",
+        "address": "2835 Main St",
+        "zip": "84115"
+    },
+    "300 State St": {
+        "index": 12,
+        "name": "Council Hall",
+        "address": "300 State St",
+        "zip": "84103"
+    },
+    "3060 Lester St": {
+        "index": 13,
+        "name": "Redwood Park",
+        "address": "3060 Lester St",
+        "zip": "84119"
+    },
+    "3148 S 1100 W": {
+        "index": 14,
+        "name": "Salt Lake County Mental Health",
+        "address": "3148 S 1100 W",
+        "zip": "84119"
+    },
+    "3365 S 900 W": {
+        "index": 15,
+        "name": "Salt Lake County/United Police Dept",
+        "address": "3365 S 900 W",
+        "zip": "84119"
+    },
+    "3575 W Valley Central Station bus Loop": {
+        "index": 16,
+        "name": "West Valley Prosecutor",
+        "address": "3575 W Valley Central Station bus Loop",
+        "zip": "84119"
+    },
+    "3595 Main St": {
+        "index": 17,
+        "name": "Housing Auth. of Salt Lake County",
+        "address": "3595 Main St",
+        "zip": "84115"
+    },
+    "380 W 2880 S": {
+        "index": 18,
+        "name": "Utah DMV Administrative Office",
+        "address": "380 W 2880 S",
+        "zip": "84115"
+    },
+    "410 S State St": {
+        "index": 19,
+        "name": "Third District Juvenile Court",
+        "address": "410 S State St",
+        "zip": "84111"
+    },
+    "4300 S 1300 E": {
+        "index": 20,
+        "name": "Cottonwood Regional Softball Complex",
+        "address": "4300 S 1300 E",
+        "zip": "84117"
+    },
+    "4580 S 2300 E": {
+        "index": 21,
+        "name": "Holiday City Office",
+        "address": "4580 S 2300 E",
+        "zip": "84117"
+    },
+    "5025 State St": {
+        "index": 22,
+        "name": "Murray City Museum",
+        "address": "5025 State St",
+        "zip": "84107"
+    },
+    "5100 South 2700 West": {
+        "index": 23,
+        "name": "Valley Regional Softball Complex",
+        "address": "5100 South 2700 West",
+        "zip": "84118"
+    },
+    "5383 South 900 East #104": {
+        "index": 24,
+        "name": "City Center of Rock Springs",
+        "address": "5383 S 900 East #104",
+        "zip": "84117"
+    },
+    "600 E 900 South": {
+        "index": 25,
+        "name": "Rice Terrace Pavilion Park",
+        "address": "600 E 900 South",
+        "zip": "84105"
+    },
+    "6351 South 900 East": {
+        "index": 26,
+        "name": "Wheeler Historic Farm",
+        "address": "6351 South 900 East",
+        "zip": "84121"
+    }
+}
