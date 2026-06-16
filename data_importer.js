@@ -1,20 +1,23 @@
 import fs from 'fs';
+import path from 'path';
+import {find_project_root} from './helpers.js';
 
-export const distance_data = JSON.parse(fs.readFileSync('json_data/distances.json', 'utf8'));
-export const location_data = JSON.parse(fs.readFileSync('json_data/locations.json', 'utf8'));
-export const packages_data = JSON.parse(fs.readFileSync('json_data/packages.json', 'utf8'));
+const project_root = find_project_root();
 
-// for (const distance in distance_data) {
-//   console.log(distance);
-// }
+export const distance_data = JSON.parse(
+    fs.readFileSync(path.join(project_root, 'json_data/distances.json'),
+        'utf8'));
+export const location_data = JSON.parse(
+    fs.readFileSync(path.join(project_root, 'json_data/locations.json'),
+        'utf8'));
 
-for (const row of distance_data) {
-  console.log(row);
+export function get_location_by_index(index) {
+    return Object.values(location_data).find(loc => loc.index === index);
 }
 
-console.log('----'
-)
+export const packages_data = JSON.parse(
+    fs.readFileSync(path.join(project_root, 'json_data/packages.json'),
+        'utf8'));
 
-for (const row in distance_data) {
-  console.log(row);
-}
+
+
